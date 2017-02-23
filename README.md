@@ -1,6 +1,4 @@
-Created by: Ted Huang, October 25, 2015
-Last revised: November 23, 2016
-
+# Python Gomoku
 
 This is a simulator of a game of gomoku, or five-in-a-row (https://en.wikipedia.org/wiki/Gomoku).
 
@@ -12,5 +10,4 @@ The program terminates when either side wins, or when there is a draw. The compu
 makes moves depending on which move is most optimal, as decided from a score calculator.
 
 "w" indicates a white piece, and "b" indicates a black piece. 
-
 
